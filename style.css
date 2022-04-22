@@ -1,0 +1,13 @@
+html{
+    scroll-behavior: smooth;
+}
+.bg-teal , .btn-teal  {
+    background-color: rgb(2, 100, 100) !important;
+    color: white;
+}
+.carousel-caption {
+    margin-bottom: 100px;
+}
+.text-teal{
+    color: #236666 !important;
+}
